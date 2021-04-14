@@ -7,9 +7,8 @@ python 3.6
 pytorch > 0.4.0    
 tensorboardX    
 numpy    
-torchvision
-cuda
-imagaug
+torchvision    
+cuda    
 h5py
 
 ## Train
