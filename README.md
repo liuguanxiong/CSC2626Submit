@@ -30,4 +30,5 @@ training
 ```
 ## evaluate with Carla Simulator
 ```
+Have the Carla simulator running on server mode. You can run with $CarlaUE4.exe -carla-server -windowed -benchmark-fps=20
 $python run_cil.py
