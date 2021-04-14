@@ -3,10 +3,10 @@
 A pytorch implementation to train the conditional imitation learning policy in "End-to-end Driving via Conditional Imitation Learning" and "CARLA: An Open Urban Driving Simulator".
 
 ## Requirements
-python 3.6
-pytorch > 0.4.0
-tensorboardX
-numpy
+python 3.6    
+pytorch > 0.4.0    
+tensorboardX    
+numpy    
 torchvision
 cuda
 imagaug
