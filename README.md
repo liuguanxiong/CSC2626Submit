@@ -9,7 +9,8 @@ tensorboardX
 numpy    
 torchvision    
 cuda    
-h5py
+h5py    
+PIL
 
 ## Train
 **train-dir** and **eval-dir** should point to where the [Carla dataset](https://github.com/carla-simulator/imitation-learning/blob/master/README.md) located.
