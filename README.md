@@ -28,6 +28,6 @@ training
 --gpu
 0
 ```
-## evaluate with Carla
+## evaluate with Carla Simulator
 ```
 $python run_cil.py
